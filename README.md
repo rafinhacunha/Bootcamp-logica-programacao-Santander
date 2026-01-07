@@ -1,31 +1,25 @@
 # Bootcamp de Lógica de Programação – Santander
 
-Este repositório contém os exercícios, desafios de código e projetos desenvolvidos durante o **Bootcamp de Lógica de Programação** oferecido pelo **Santander Open Academy**.
+Este repositório contém os estudos, exercícios, desafios de código e projetos desenvolvidos durante o **Bootcamp de Lógica de Programação** do **Santander Open Academy**.
+
+## Conteúdos abordados
+- Algoritmos e estrutura de programas
+- Tipos de dados e variáveis
+- Vetores e matrizes
+- Operadores aritméticos, relacionais e lógicos
+- Estruturas condicionais e de repetição
+- Funções e reutilização de código
+- Estruturas de dados (JSON e objetos)
+
+## Organização
+O repositório está organizado seguindo a mesma estrutura dos módulos do bootcamp, facilitando o acompanhamento da evolução do aprendizado.
 
 ## Objetivo
-Construir uma base sólida em lógica de programação, abordando:
-- Pensamento computacional
-- Estruturação de código
-- Estruturas condicionais e de repetição
-- Funções
-- Resolução de problemas com dados
-
-## Estrutura do Repositório
-- `01-fundamentos` – Conceitos básicos de programação
-- `02-estruturas-condicionais` – If, else e decisões
-- `03-estruturas-de-repeticao` – Laços de repetição
-- `04-funcoes` – Criação e uso de funções
-- `05-desafios-de-codigo` – Desafios propostos pelo bootcamp
-- `06-projetos` – Projetos práticos para portfólio
-- `certificados` – Certificados obtidos no bootcamp
-
-## Tecnologias Utilizadas
-- Lógica de Programação
-- (Adicione aqui a linguagem usada: JavaScript, Python, Portugol, etc.)
+Desenvolver uma base sólida em lógica de programação e pensamento computacional, preparando para desafios práticos e projetos futuros na área de tecnologia.
 
 ## Certificado
 O certificado de conclusão estará disponível na pasta `certificados`.
 
 ---
 
-📌 *Repositório criado para fins de estudo e desenvolvimento pessoal.*
+📌 Repositório criado para fins educacionais e de portfólio.
