@@ -1,4 +1,4 @@
-//operadores servem para fazer comparacoes ou atribuir certos valores para uma variavel em uma certa condicoes
+//operadores servem para fazer comparacoes ou atribuir certos valores para uma variavel em uma certa condição
 
 let num = 1
 let num1 = 2
@@ -21,4 +21,5 @@ console.log(result)
 console.log("-------")
 //operador de divisao
 result = num/num1
+
 console.log(result)
